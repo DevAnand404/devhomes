@@ -4,4 +4,4 @@ rooms
 
 people
 
-wifi
+
