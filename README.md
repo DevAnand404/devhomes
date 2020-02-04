@@ -1,8 +1,0 @@
-# devhomes
-
-rooms
-
-people
-
-
-tv 
