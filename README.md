@@ -4,4 +4,5 @@ rooms
 
 people
 
-wifi
+
+tv 
