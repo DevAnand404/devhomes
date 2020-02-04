@@ -3,3 +3,5 @@
 rooms
 
 people
+
+wifi
